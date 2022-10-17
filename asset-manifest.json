@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://wt37.github.io/csb-ohbwsb/static/css/main.ab1784db.chunk.css",
-    "main.js": "https://wt37.github.io/csb-ohbwsb/static/js/main.f5e82517.chunk.js",
-    "main.js.map": "https://wt37.github.io/csb-ohbwsb/static/js/main.f5e82517.chunk.js.map",
+    "main.css": "https://wt37.github.io/csb-ohbwsb/static/css/main.d5ef8e94.chunk.css",
+    "main.js": "https://wt37.github.io/csb-ohbwsb/static/js/main.01cf4db4.chunk.js",
+    "main.js.map": "https://wt37.github.io/csb-ohbwsb/static/js/main.01cf4db4.chunk.js.map",
     "runtime-main.js": "https://wt37.github.io/csb-ohbwsb/static/js/runtime-main.df49dc5d.js",
     "runtime-main.js.map": "https://wt37.github.io/csb-ohbwsb/static/js/runtime-main.df49dc5d.js.map",
     "static/js/2.b99aae93.chunk.js": "https://wt37.github.io/csb-ohbwsb/static/js/2.b99aae93.chunk.js",
     "static/js/2.b99aae93.chunk.js.map": "https://wt37.github.io/csb-ohbwsb/static/js/2.b99aae93.chunk.js.map",
     "index.html": "https://wt37.github.io/csb-ohbwsb/index.html",
-    "static/css/main.ab1784db.chunk.css.map": "https://wt37.github.io/csb-ohbwsb/static/css/main.ab1784db.chunk.css.map",
+    "static/css/main.d5ef8e94.chunk.css.map": "https://wt37.github.io/csb-ohbwsb/static/css/main.d5ef8e94.chunk.css.map",
     "static/js/2.b99aae93.chunk.js.LICENSE.txt": "https://wt37.github.io/csb-ohbwsb/static/js/2.b99aae93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.df49dc5d.js",
     "static/js/2.b99aae93.chunk.js",
-    "static/css/main.ab1784db.chunk.css",
-    "static/js/main.f5e82517.chunk.js"
+    "static/css/main.d5ef8e94.chunk.css",
+    "static/js/main.01cf4db4.chunk.js"
   ]
 }
